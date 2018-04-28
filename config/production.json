@@ -1,5 +1,5 @@
 {
     "ENV": "production",
-    "MONGO_URI": "mongodb://localhost:27017/fashion-prod",
-    "PATH": "/home/user/backup/seminario"
+    "MONGO_URI": "mongodb://localhost:27017/seminario-romano-dev",
+    "PATH": "home/ec2-user/backupDb"
 }

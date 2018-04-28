@@ -1,5 +1,5 @@
 {
     "ENV": "development",
-    "MONGO_URI": "mongodb://localhost:27017/apps2bnl-prod",
+    "MONGO_URI": "mongodb://localhost:27017/seminario-romano-dev",
     "PATH": "/Users/developer/Desktop/backup_seminario_romano/seminario"
 }
