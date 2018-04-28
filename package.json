@@ -1,0 +1,29 @@
+{
+  "name": "apps2backup-node",
+  "version": "1.0.0",
+  "description": "Applicazione NodeJS per schedulare il backup di un'applicazione MongoDB.",
+  "main": "service.js",
+  "scripts": {
+    "test": "node service.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@dev.mobilesoft.it:mobilesoft/apps2backup-node.git"
+  },
+  "keywords": [
+    "apps2",
+    "backup",
+    "mongodb",
+    "scheduled"
+  ],
+  "author": "Liseo Vertenzi",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "config": "^1.26.2",
+    "moment": "^2.18.1",
+    "mongodb-backup": "^1.6.9",
+    "mongodb-restore": "^1.6.2",
+    "node-schedule": "^1.2.4"
+  }
+}
