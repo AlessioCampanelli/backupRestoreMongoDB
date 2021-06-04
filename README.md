@@ -1,2 +1,2 @@
 # backupRestoreMongoDB
-Node application to backup and restore a Mongo Database
+Node application to easily backup and restore a Mongo Database
